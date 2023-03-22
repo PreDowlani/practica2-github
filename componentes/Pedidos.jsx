@@ -1,13 +1,12 @@
 import React from "react";
 
-const Carrito = () => {
+const Pedidos = () => {
   return (
     <div>
-      <h1>Componente Carrito </h1>
-
+      <h1>Pedidos</h1>
       <p>ME VUELVE LOCO EL GIT !! </p>
     </div>
   );
 };
 
-export default Carrito;
+export default Pedidos;
